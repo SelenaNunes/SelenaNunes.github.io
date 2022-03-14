@@ -1,8 +1,9 @@
 ---
 layout: page
-permalink: /about/
-title: Hello, friends.
+title: About
 ---
+
+## Hello, friends.
 
 My name is Selena. I'm a database analyst interested in information security, particularly in the areas of digital forensics and data privacy.
 
