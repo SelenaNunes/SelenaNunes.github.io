@@ -3,7 +3,6 @@ layout: page
 permalink: /about/
 ---
 
-[/../](https://selenanunes.github.io/)
 
 # Hello, friends.
 
